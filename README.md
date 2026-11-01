@@ -7,6 +7,7 @@ I moved from chemical engineering, where I did semiconductor yield analysis, int
 - 🏅 **Databricks Certified Data Engineer Associate** (2026)
 - 🎓 **FTW Foundation x Accenture Data Engineering Scholar**, Jun–Oct 2026 
 - ⚗️ Licensed Chemical Engineer · BS ChemEng, UP Los Baños
+- 💼 **Open to entry-level Data Engineer roles.** Let's talk: [LinkedIn](https://www.linkedin.com/in/maeveylainsean/)
 
 ---
 
@@ -47,7 +48,8 @@ Helps Local School Boards in the Philippines see **which cities and municipaliti
 - A validation check after every layer, with results tracked on a data-quality dashboard
 - Star-schema Gold layer (school, city/municipality, school year, enrollment, classroom and teacher capacity)
 - CI with GitHub Actions + pytest; deployed with Databricks Asset Bundles
-- **My role:** I built the geography backbone that lets the pipeline compare every Philippine city and municipality. I owned the PSGC reference and the school-to-PSGC crosswalk in Silver, integrated census population data, and delivered 3 Gold tables with validation gates, tests and source-to-Gold reconciliation. I also led the storytelling for our Best Capstone presentation.
+
+ **My role:** I built the geography backbone that lets the pipeline compare every Philippine city and municipality. I owned the PSGC reference and the school-to-PSGC crosswalk in Silver, integrated census population data, and delivered 3 Gold tables with validation gates, tests and source-to-Gold reconciliation. I also led the storytelling for our Best Capstone presentation.
 
 🔗 [View the repository](https://github.com/reached-hq/edu-access-intelligence)
 
