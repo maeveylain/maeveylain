@@ -1,11 +1,11 @@
-# Hi, I'm Maeve 👋
+# Hi, I'm Maeve Ylain Sean 👋
 
-**Data Engineer** from Laguna, Philippines
+**Data Engineer** · Databricks Certified · 🏆 Best Capstone, FTW 2026 · Laguna, Philippines
 
 I moved from chemical engineering, where I did semiconductor yield analysis, into data engineering. Yield work taught me that a decision is only as good as the data behind it. Now, I build the systems that produce that data, from raw ingestion to tested, analytics-ready tables.
 
 - 🏅 **Databricks Certified Data Engineer Associate** (2026)
-- 🎓 **FTW Data Engineering Scholar**, Jun–Oct 2026 · 🏆 Best Capstone Award
+- 🎓 **FTW Foundation x Accenture Data Engineering Scholar**, Jun–Oct 2026 
 - ⚗️ Licensed Chemical Engineer · BS ChemEng, UP Los Baños
 
 ---
